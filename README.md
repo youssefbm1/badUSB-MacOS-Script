@@ -1,2 +1,2 @@
 # badUSB-Arduino
-#Note: This Script Is only for educational purposese. Please use it carefully.
+# Note: This Script Is only for educational purposes. Please use it carefully. 
